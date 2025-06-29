@@ -1,4 +1,4 @@
-
+# EcoGrow Platform
 
 EcoGrow is a precision agriculture web platform built using Flask and machine learning to assist farmers in making informed decisions. It helps determine the best crop to plant, suggests fertilizers, identifies crop diseases using image recognition, and provides cures. The platform is designed with an intuitive frontend and animated visuals to enhance user engagement and accessibility.
 
